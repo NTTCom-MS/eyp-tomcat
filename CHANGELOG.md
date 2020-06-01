@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.6.29
+
+* improved **OS support**
+* improves **eyp-systemd** compatibility
+
 ## 0.6.28
 
 * changed default connection timeout for AJP and HTTPS connectors to 30s
