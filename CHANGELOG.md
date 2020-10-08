@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.6.32
+
+* added tomcatctl script
+
 ## 0.6.31
 
 * added logname to the restart notification email
