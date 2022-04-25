@@ -603,8 +603,8 @@ instance options:
   * **realms**                 = undef,
   * **values**                 = undef,
   * **errorReportValveClass**  = undef,
-  * **maxThreads**: tomcat max threads (default: 150)
-  * **minSpareThreads**        = '4',
+  * **max_threads**: tomcat max threads (default: 150)
+  * **min_spare_threads**        = '4',
   * **connectionTimeout**      = '20000',
   * **lockoutrealm**           = true,
   * **userdatabase**           = true,
